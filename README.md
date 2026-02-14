@@ -1,5 +1,7 @@
-# 🎯 SmartHire AI - AI-Powered Recruitment Platform
-
+#SmartHire AI - AI-Powered Recruitment Platform
+#Contributors
+-Malyala Rishith
+-Pillalamarri Ramu
 ## Overview
 
 SmartHire AI is an intelligent resume screening and candidate matching platform powered by Google's Gemini AI. It helps recruiters screen hundreds of resumes in minutes, automatically score candidates by skill match, and identify top candidates for any job position.
@@ -17,7 +19,7 @@ SmartHire AI is an intelligent resume screening and candidate matching platform 
 - ✅ **Candidate Management** - Track all candidates for each job
 - ✅ **Match Breakdown** - Visual representation of matched vs missing skills
 
-### Premium Features (Hackathon Edition)
+### Features
 1. **📊 Results Dashboard** - View all candidates in sortable, filterable table
 2. **📤 Bulk Upload** - Upload 10+ resumes simultaneously with parallel processing
 3. **📈 Visual Match Breakdown** - Graph matching skills vs requirements
@@ -29,7 +31,7 @@ SmartHire AI is an intelligent resume screening and candidate matching platform 
 
 ## 🏗️ Tech Stack
 
-### Frontend
+### Frontend by rishith
 - **React 19.2.0** - Modern UI framework
 - **Vite 7.3.1** - Lightning-fast development bundler
 - **React Router v7** - Client-side routing
@@ -37,7 +39,7 @@ SmartHire AI is an intelligent resume screening and candidate matching platform 
 - **Axios 1.13.5** - HTTP client
 - **localStorage API** - Local data persistence
 
-### Backend
+### Backend by ramu
 - **Node.js + Express.js** - REST API server
 - **Sequelize 6.37.7** - ORM for database abstraction
 - **SQLite** - Local database (file-based)
@@ -441,22 +443,6 @@ npm run dev
 
 ---
 
-## 📞 Support & Contact
-
-For issues or questions:
-1. Check the troubleshooting section
-2. Review component docstrings in source code
-3. Check console for error messages
-4. Verify API key configuration in `.env`
-
----
-
-## 📄 License
-
-MIT License - Feel free to use, modify, and distribute
-
----
-
 ## 🎉 Hackathon Submission
 
 **Project:** SmartHire AI  
@@ -474,6 +460,3 @@ MIT License - Feel free to use, modify, and distribute
 - Responsive mobile-friendly design
 
 ---
-
-**Made with ❤️ for recruitment teams**  
-**Powered by Google Generative AI**
